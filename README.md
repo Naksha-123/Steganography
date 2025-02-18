@@ -1,5 +1,5 @@
-SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY
-Introduction 
+SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY\n
+Introduction\n
 This project implements Steganography, a technique for hiding secret messages inside digital media, such as images or audio files. The project allows users to embed a hidden message within an image and later extract it without noticeable alterations to the image quality.
 
 Features
