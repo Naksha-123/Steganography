@@ -4,6 +4,7 @@
 
 This project implements **Steganography**, a technique for hiding secret messages inside digital media, such as images or audio files. The project allows users to embed a hidden message within an image and later extract it without noticeable alterations to the image quality.
 
+
 **Features**
 
 -Encode Message: Hide text messages inside an image.
@@ -15,11 +16,13 @@ This project implements **Steganography**, a technique for hiding secret message
 -User-friendly Interface: Simple command-line or GUI-based interaction.
 
 
+
 **Technologies Used:**
 
 -Programming Language:Python 
 
 -Libararies: OpenCV,NumPy,Tkinter
+
 
 
 **Applications:**  
@@ -29,6 +32,7 @@ This project implements **Steganography**, a technique for hiding secret message
 -Digital Watermarking – Embed hidden text into images for authenticity.  
 
 -Data Protection – Store sensitive information in images securely.  
+
 
 
 **Example Usage**  
@@ -50,6 +54,7 @@ This project implements **Steganography**, a technique for hiding secret message
    - Click "Decrypt Image" to reveal the message.
 
 
+
 **Future Enhancements** 
 
 -Add support for larger messages using advanced encoding techniques.  
@@ -59,6 +64,7 @@ This project implements **Steganography**, a technique for hiding secret message
 -Improve security using encryption before embedding the message.  
 
 -Develop a mobile or web-based version for accessibility.  
+
 
 
 **Conclusion**  
